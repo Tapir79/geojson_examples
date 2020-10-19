@@ -1,1 +1,2 @@
-Commit the file as you would normally using a .geojson extension then use the URL for the GeoJSON in your application. eg. https://github.com/<username>/<project>/blob/master/<file>.geojson
+Commit the file as you would normally using a .geojson extension then use the URL for the GeoJSON in your application. eg.                      
+`https://github.com/<username>/<project>/blob/master/<file>.geojson`
